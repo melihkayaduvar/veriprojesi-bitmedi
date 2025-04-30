@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-6f09a1b293cac1760d17.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "VeriProjesi",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "VeriProjesi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-VeriProjesi-Debug-f819673d925a55c415d8.json",
+					"name" : "VeriProjesi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "VeriProjesi_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-VeriProjesi_autogen-Debug-c47ea03247f0a3073057.json",
+					"name" : "VeriProjesi_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "VeriProjesi_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-VeriProjesi_autogen_timestamp_deps-Debug-608fca4c7e34fe9cfdcf.json",
+					"name" : "VeriProjesi_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/MyCodes/QT/VeriProjesi/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug",
+		"source" : "C:/MyCodes/QT/VeriProjesi"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

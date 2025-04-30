@@ -1,0 +1,10 @@
+# ninja log v6
+10	115	7677482702108984	VeriProjesi_autogen/timestamp	43d7c22cfa9ce5e0
+10	115	7677482702108984	VeriProjesi_autogen/mocs_compilation.cpp	43d7c22cfa9ce5e0
+116	1326	7677482703173947	CMakeFiles/VeriProjesi.dir/main.cpp.obj	693ce84ff43b00a7
+10	115	7677482702108984	C:/MyCodes/QT/VeriProjesi/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/VeriProjesi_autogen/timestamp	43d7c22cfa9ce5e0
+10	115	7677482702108984	C:/MyCodes/QT/VeriProjesi/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/VeriProjesi_autogen/mocs_compilation.cpp	43d7c22cfa9ce5e0
+199	375	7677480419445724	CMakeFiles/VeriProjesi.dir/VeriProjesi_autogen/mocs_compilation.cpp.obj	6db2c7abbb211ad6
+1326	1414	7677482715266809	VeriProjesi.exe	b35d208823ac123
+19	42	7676702891052925	CMakeFiles/clean.additional	baedbe210acaa455
+42	49	7676702891274828	clean	577b940aee94fbd7
